@@ -1,4 +1,4 @@
-# gbn_tv
+# Flutter auto start app
 
 A new Flutter application.
 
